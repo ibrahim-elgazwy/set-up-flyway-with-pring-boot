@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS authority(
+  name VARCHAR(16) PRIMARY KEY
+);

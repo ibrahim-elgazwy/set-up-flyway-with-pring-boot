@@ -1,0 +1,1 @@
+DELETE FROM account WHERE email = 'user1.foo@foo.com';
